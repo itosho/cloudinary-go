@@ -1,4 +1,4 @@
-package imgix
+package cloudinary
 
 import (
 	"testing"
